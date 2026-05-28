@@ -1,4 +1,4 @@
-# Bài Thực Hành 1 - Phân tích dữ liệu lớn (DS200)
+# Bài Thực Hành - Phân tích dữ liệu lớn (DS200)
 
 ## Thông tin sinh viên
 - **Họ và tên:** Nguyễn Bi Anh
