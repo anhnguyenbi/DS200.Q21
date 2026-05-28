@@ -1,0 +1,49 @@
+FACILITIES	
+  - không: 176
+  - khách: 170
+  - tiện: 159
+  - phòng: 138
+  - sạn: 131
+
+FOOD&DRINKS	
+  - ăn: 558
+  - sáng: 499
+  - món: 253
+  - ngon: 251
+  - không: 245
+
+HOTEL	
+  - khách: 1767
+  - sạn: 1559
+  - giá: 1050
+  - vụ: 980
+  - không: 938
+
+LOCATION	
+  - trí: 657
+  - vị: 655
+  - tiện: 533
+  - khách: 507
+  - sạn: 487
+
+ROOMS	
+  - phòng: 2995
+  - sạch: 1401
+  - ốc: 1047
+  - tiện: 891
+  - khách: 812
+
+ROOM_AMENITIES	
+  - phòng: 1200
+  - tiện: 755
+  - nghi: 684
+  - đủ: 630
+  - đầy: 609
+
+SERVICE	
+  - nhân: 1450
+  - vụ: 1445
+  - viên: 1429
+  - khách: 1266
+  - phòng: 1103
+
